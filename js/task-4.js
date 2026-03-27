@@ -3,7 +3,6 @@ function getShippingCost(country) {
     case 'China':
       var price = 100;
       return `Shipping to ${country} will cost ${price} credits`;
-      s;
     case 'Chile':
       var price = 250;
       return `Shipping to ${country} will cost ${price} credits`;
